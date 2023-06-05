@@ -1,0 +1,89 @@
+{
+  "resources": [
+    {
+      "path": "dados_violencia_geral_SES.csv",
+      "name": "dados_violencia_geral_ses",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "DT_NOTIFIC",
+            "type": "string"
+          },
+          {
+            "name": "DT_NASC",
+            "type": "string"
+          },
+          {
+            "name": "NU_IDADE_N",
+            "type": "integer"
+          },
+          {
+            "name": "CS_SEXO",
+            "type": "string"
+          },
+          {
+            "name": "CS_RACA",
+            "type": "string"
+          },
+          {
+            "name": "ID_MN_RESI",
+            "type": "string"
+          },
+          {
+            "name": "LOCAL_OCOR",
+            "type": "string"
+          },
+          {
+            "name": "OUT_VEZES",
+            "type": "string"
+          },
+          {
+            "name": "LES_AUTOP",
+            "type": "string"
+          },
+          {
+            "name": "VIOL_FISIC",
+            "type": "string"
+          },
+          {
+            "name": "VIOL_PSICO",
+            "type": "string"
+          },
+          {
+            "name": "VIOL_SEXU",
+            "type": "string"
+          },
+          {
+            "name": "SEX_OUTRO",
+            "type": "string"
+          },
+          {
+            "name": "NUM_ENVOLV",
+            "type": "string"
+          },
+          {
+            "name": "AUTOR_SEXO",
+            "type": "string"
+          },
+          {
+            "name": "ORIENT_SEX",
+            "type": "any"
+          },
+          {
+            "name": "IDENT_GEN",
+            "type": "any"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package"
+}
