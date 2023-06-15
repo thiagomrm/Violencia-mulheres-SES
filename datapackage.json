@@ -1,9 +1,27 @@
 {
+  "name": "dados_violencia_geral_ses",
+  "title": "Violência contra Mulheres SES",
+  "owner_org": "secretaria-de-estado-de-saude-ses",
+  "frequência de atualização": "mensal",
+  "version": "0.1.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "keywords": [
+    "feminicídio",
+    "violência contra mulher",
+    "crimes",
+    "segurança"
+  ],
+  "scheme": "file",
   "resources": [
     {
       "path": "dados_violencia_geral_SES.csv",
       "name": "dados_violencia_geral_ses",
-      "owner_org": "secretaria-estadual-de-saude-ses",
       "title": "Violência contra Mulheres SES",
       "profile": "tabular-data-resource",
       "scheme": "file",
