@@ -12,7 +12,6 @@
     }
   ],
   "keywords": [
-    "feminicídio",
     "violência contra mulher",
     "crimes",
     "segurança"
@@ -35,71 +34,213 @@
         "fields": [
           {
             "name": "DT_NOTIFIC",
-            "type": "string"
+            "type": "string",
+            "title": "Data de Notificação",
+            "description": "Data de preenchimento da ficha de notificação"
           },
           {
             "name": "DT_NASC",
-            "type": "string"
+            "type": "string",
+            "title": "Data de Nascimento",
+            "description": "Data de nascimento do paciente"
           },
           {
             "name": "NU_IDADE_N",
-            "type": "integer"
+            "type": "integer",
+            "title": "Idade",
+            "description": "Idade quando não há data de nascimento"
           },
           {
             "name": "CS_SEXO",
-            "type": "string"
+            "type": "string",
+            "title": "Sexo",
+            "description": "Sexo do paciente",
+            "constraints": {
+              "enum": [
+                "Feminino",
+                "Masculino",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "CS_RACA",
-            "type": "string"
+            "type": "string",
+            "title": "Raça/Cor",
+            "description": "Raça/Cor do paciente",
+            "constraints": {
+              "enum": [
+                "Branca",
+                "Preta",
+                "Amarela",
+                "Parda",
+                "Indígena",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "ID_MN_RESI",
-            "type": "string"
+            "type": "string",
+            "title": "Código da cidade de residência",
+            "description": "Código IBGE da cidade de residência do paciente"
           },
           {
             "name": "LOCAL_OCOR",
-            "type": "string"
+            "type": "string",
+            "title": "Local de ocorrência",
+            "description": "Local de ocorrência do evento notificado",
+            "constraints": {
+              "enum": [
+                "Residencia",
+                "Habitação coletiva",
+                "Escola",              
+                "Local de pratica esportiva",
+                "Bar ou similar",
+                "Via pública",
+                "Comercio/Serviços",
+                "Industria/Construção",
+                "Outro",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "OUT_VEZES",
-            "type": "string"
+            "type": "string",
+            "title": "Aconteceu outras vezes?",
+            "description": "Informa se a violência é de repetição",
+            "constraints": {
+              "enum": [
+                "Sim",
+                "Não",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "LES_AUTOP",
-            "type": "string"
+            "type": "string",
+            "title": "Lesão autoprovocada",
+            "description": "Informa se a lesão foi autoprovocada",
+            "constraints": {
+              "enum": [
+                "Sim",
+                "Não",
+                "Não se aplica",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "VIOL_FISIC",
-            "type": "string"
+            "type": "string",
+            "title": "Violência Física",
+            "description": "Informar se ocorreu violência física",
+            "constraints": {
+              "enum": [
+                "Sim",
+                "Não",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "VIOL_PSICO",
-            "type": "string"
+            "type": "string",
+            "title": "Violencia Psicológica",
+            "description": "Informar se ocorreu violência psicológica/moral",
+            "constraints": {
+              "enum": [
+                "Sim",
+                "Não",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "VIOL_SEXU",
-            "type": "string"
+            "type": "string",
+            "title": "Violência Sexual",
+            "description": "Informar se ocorreu violência sexual",
+            "constraints": {
+              "enum": [
+                "Sim",
+                "Não",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "SEX_OUTRO",
-            "type": "string"
+            "type": "string",
+            "title": "Outro tipo de violência sexual",
+            "description": "Informar se ocorreu outro tipo de violência sexual",
+            "constraints": {
+              "enum": [
+                "Sim",
+                "Não",
+                "Não se aplica",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "NUM_ENVOLV",
-            "type": "string"
+            "type": "string",
+            "title": "Número de envolvidos",
+            "description": "Informar o número de envolvidos na violência",
+            "constraints": {
+              "enum": [
+                "Um",
+                "Dois ou mais",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "AUTOR_SEXO",
-            "type": "string"
+            "type": "string",
+            "title": "Sexo do autor",
+            "description": "Informar o sexo do provável autor da agressão",
+            "constraints": {
+              "enum": [
+                "Masculino",
+                "Feminino",
+                "Ambos os sexos",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "ORIENT_SEX",
-            "type": "any"
+            "type": "any",
+            "title": "Orientação sexual",
+            "description": "Orientação sexual do paciente",
+            "constraints": {
+              "enum": [
+                "Heterossexual",
+                "Homossexual",
+                "Bissexual",
+                "Não se aplica",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "IDENT_GEN",
-            "type": "any"
+            "type": "any",
+            "title": "Identidade de gênero",
+            "description": "Identidade de gênero do paciente",
+            "constraints": {
+              "enum": [
+                "Travesti",
+                "Transsexual Mulher",
+                "Transsexual Homem",
+                "Não se aplica",
+                "Ignorado"
+              ]
+            }
           }
         ]
       }
