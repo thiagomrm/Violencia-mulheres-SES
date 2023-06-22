@@ -82,8 +82,8 @@
           {
             "name": "ID_MN_RESI",
             "type": "string",
-            "title": "Código da cidade de residência",
-            "description": "Código IBGE da cidade de residência do paciente"
+            "title": "Descrição da cidade de residência",
+            "description": "Descrição IBGE da cidade de residência do paciente"
           },
           {
             "name": "LOCAL_OCOR",
