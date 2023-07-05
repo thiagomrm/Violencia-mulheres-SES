@@ -11,7 +11,7 @@ cached-property==1.5.2
 certifi==2020.12.5
 cffi @ file:///C:/ci/cffi_1625831756778/work
 chardet @ file:///C:/ci/chardet_1607706937985/work
-ckanapi==4.7
+ckanapi==4.0
 click==8.0.1
 colorama==0.4.4
 commonmark==0.9.1
@@ -28,10 +28,10 @@ deepmerge==1.1.0
 docopt==0.6.2
 docstring-parser==0.15
 docutils==0.16
-dpckan==0.1.18
+dpckan==0.1.21
 dtamg-py==0.1.5
 et-xmlfile==1.1.0
-frictionless==5.5.6
+frictionless==4.16.6
 frictionless-ckan-mapper==1.0.6
 future==0.18.3
 gitdb==4.0.10
