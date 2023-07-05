@@ -2,10 +2,9 @@
 
 Saiba como contribuir com a documentação deste conjunto de dados!
 
-A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no [Github](https://github.com/). Existem duas alternativas para enviar sua contribuição:
+A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no [Github](https://github.com/dados-mg/violencia-ses). Existem duas alternativas para enviar sua contribuição:
 
-- [Issues](https://github.com/thiagomrm/TesteCGE/issues): Para iniciar uma discussão sobre melhorias na documentação.
-- [Pull requests](https://github.com/thiagomrm/TesteCGE/pulls): Para sugerir uma alteração concreta na documentação.
+- [Pull requests](https://github.com/dados-mg/violencia-ses/pulls): Para sugerir uma alteração concreta na documentação.
 
 Todas as contribuições são bem vindas. Alguns exemplos são:
 
