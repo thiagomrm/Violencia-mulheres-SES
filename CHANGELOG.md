@@ -6,6 +6,6 @@ Documentação das principais alterações sofridas por este conjunto de dados.
 
 - Versão inicial em homologação publicada
 
-### [0.1.0] - 2023-06-22
+### [0.1.0] - 2023-07-05
 
 - Versão inicial em produção publicada

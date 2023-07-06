@@ -1,0 +1,37 @@
+{
+  "valid": false,
+  "stats": {
+    "tasks": 1,
+    "warnings": 0,
+    "errors": 1,
+    "seconds": 0.013
+  },
+  "warnings": [],
+  "errors": [],
+  "tasks": [
+    {
+      "valid": false,
+      "name": "dados_violencia_geral_ses",
+      "type": "table",
+      "place": "dados_violencia_geral_SES.csv",
+      "labels": [],
+      "stats": {
+        "bytes": 8192,
+        "warnings": 0,
+        "errors": 1,
+        "seconds": 0.007
+      },
+      "warnings": [],
+      "errors": [
+        {
+          "type": "encoding-error",
+          "title": "Encoding Error",
+          "description": "Data reading error because of an encoding problem.",
+          "message": "The data source could not be successfully decoded: 'utf-8' codec can't decode byte 0xc6 in position 241: invalid continuation byte",
+          "tags": [],
+          "note": "'utf-8' codec can't decode byte 0xc6 in position 241: invalid continuation byte"
+        }
+      ]
+    }
+  ]
+}
