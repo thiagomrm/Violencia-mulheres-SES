@@ -14,4 +14,4 @@ Destaca-se que, o preenchimento adequado da ficha de notificação de violência
 
 ## ATUALIZAÇÃO DOS DADOS
 
-Os dados estão disponíveis a partir de 2016 e serão atualizados mensalmente. Salienta-se que, de acordo com o fluxo de notificação de violência interpessoal/autoprovocada, a base de dados do Sinan é atualizada semanalmente, e a inserção de novas fichas de notificação pode ser realizada em data posterior à ocorrência do caso de violência. 
+Os dados estão disponíveis a partir de 2010 e serão atualizados mensalmente. Salienta-se que, de acordo com o fluxo de notificação de violência interpessoal/autoprovocada, a base de dados do Sinan é atualizada semanalmente, e a inserção de novas fichas de notificação pode ser realizada em data posterior à ocorrência do caso de violência. 
