@@ -1,3 +1,4 @@
+
 {
 	"fields": [
           {
@@ -197,5 +198,7 @@
             }
           }
         ],
-	"profile": "data-package"
+  "missingValues": [
+    "NA"
+  ]
 }
