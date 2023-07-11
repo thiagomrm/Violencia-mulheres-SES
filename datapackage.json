@@ -34,7 +34,7 @@
     {
       "path": "data/dados_violencia_mulheres_ses_2010.csv",
       "name": "dados_violencia_mulheres_ses_2010",
-      "title": "Violência contra Mulheres SES",
+      "title": "Violência contra Mulheres SES 2010",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
