@@ -2,12 +2,6 @@
 {
 	"fields": [
           {
-            "name": " ",
-            "type": "integer",
-            "title": "ID",
-            "description": "Número de identificação no banco do SINAM (?)"
-          },
-          {
             "name": "DT_NOTIFIC",
             "type": "date",
             "title": "Data de Notificação",
