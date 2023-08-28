@@ -4,12 +4,14 @@
           {
             "name": "DT_NOTIFIC",
             "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data de Notificação",
             "description": "Data de preenchimento da ficha de notificação"
           },
           {
             "name": "DT_NASC",
             "type": "date",
+            "format": "%d/%m/%Y",
             "title": "Data de Nascimento",
             "description": "Data de nascimento da vítima de violência"
           },
@@ -199,6 +201,8 @@
           }
         ],
   "missingValues": [
-    "NA"
+    "NA",
+    " ",
+    ""
   ]
 }
