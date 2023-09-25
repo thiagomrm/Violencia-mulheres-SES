@@ -266,11 +266,11 @@
 06/01/2021;06/05/2003;17;Feminino;Parda;Montes Claros;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 11/01/2021;06/04/1994;26;Feminino;Parda;Jaíba;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Ignorado
 03/01/2021;07/12/2000;20;Feminino;Parda;Jaíba;Residencia;Não;Não;Sim;Sim;Sim;Um;Masculino;Heterossexual;Não se aplica
-01/01/2021;29/06/1964;56;Feminino;Parda;Pai Pedro;Bar ou similar;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Não se aplica;Não se aplica
-01/01/2021;02/07/1979;41;Feminino;Parda;Pai Pedro;Bar ou similar;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
-01/01/2021;15/06/1987;33;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Homossexual;Não se aplica
 13/01/2021;29/09/1970;50;Feminino;Preta;Lagoa dos Patos;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 05/01/2021;21/04/2009;11;Feminino;Parda;Capitão Enéas;Outro;Sim;Não;Sim;Sim;Sim;Um;Masculino;Heterossexual;Ignorado
+01/01/2021;15/06/1987;33;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+01/01/2021;02/07/1979;41;Feminino;Parda;Pai Pedro;Bar ou similar;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
+01/01/2021;29/06/1964;56;Feminino;Parda;Pai Pedro;Bar ou similar;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 04/01/2021;02/05/1990;30;Feminino;Parda;Barroso;;;;;;;;;;
 04/01/2021;30/11/1985;35;Feminino;Parda;Catuji;Residencia;Sim;Não;Não;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 03/01/2021;30/08/1973;47;Feminino;Parda;Teófilo Otoni;;;;;;;;;;
@@ -926,7 +926,6 @@
 22/01/2021;26/09/1963;57;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 22/01/2021;24/08/1977;43;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 26/01/2021;26/04/1998;22;Feminino;Preta;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
-22/01/2021;05/05/1999;21;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 02/01/2021;05/03/2002;18;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Ignorado
 28/01/2021;06/03/2004;16;Feminino;Parda;Bocaiúva;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 25/01/2021;06/03/2004;16;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
@@ -1783,7 +1782,6 @@
 08/02/2021;30/11/1972;48;Feminino;Branca;Bocaiúva;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 14/02/2021;21/11/1985;35;Feminino;Branca;Mato Verde;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Homossexual;Não se aplica
 09/02/2021;23/01/1986;35;Feminino;Preta;Olhos-D'água;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-06/02/2021;15/07/1987;33;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Homossexual;Não se aplica
 17/02/2021;26/12/1999;21;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 16/02/2021;08/08/1967;53;Feminino;Parda;Francisco Dumont;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 15/02/2021;10/02/2006;15;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
@@ -1991,7 +1989,7 @@
 11/02/2021;26/05/1972;48;Feminino;Branca;Barbacena;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 06/02/2021;02/04/1982;38;Feminino;Preta;Conselheiro Lafaiete;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Ignorado
 06/02/2021;19/11/1978;42;Feminino;Indígena;Santana dos Montes;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Ignorado
-02/02/2021;21/12/2005;15;Feminino;Preta;Conselheiro Lafaiete;Residencia;Sim;Sim;Sim;Não;Não;Um;Ignorado;Ignorado;Ignorado
+02/02/2021;21/12/2005;15;Feminino;Preta;Conselheiro Lafaiete;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 01/02/2021;06/03/1978;42;Feminino;Branca;Conselheiro Lafaiete;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 07/02/2021;29/08/1959;61;Feminino;Branca;Conselheiro Lafaiete;Via pública;Sim;Não;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 04/02/2021;30/06/1993;27;Feminino;Branca;Conselheiro Lafaiete;Residencia;Sim;Sim;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -2548,7 +2546,6 @@
 18/01/2021;28/08/1961;59;Feminino;Ignorado;Contagem;Ignorado;Ignorado;Ignorado;Sim;Ignorado;Ignorado;Um;Feminino;Ignorado;Ignorado
 01/02/2021;17/05/1974;46;Feminino;Branca;Contagem;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 29/01/2021;30/01/1950;70;Feminino;Branca;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
-08/02/2021;17/09/1983;36;Feminino;Parda;Belo Horizonte;Ignorado;Não;Não;Sim;Não;Não;Um;Ignorado;Ignorado;Ignorado
 10/02/2021;31/03/1999;21;Feminino;Parda;Pedro Leopoldo;Residencia;Não;Sim;Sim;Ignorado;Ignorado;Um;Feminino;Ignorado;Ignorado
 19/02/2021;17/07/1966;54;Feminino;Parda;Itabirito;Habitação coletiva;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 01/02/2021;18/02/1995;25;Feminino;Parda;Contagem;Ignorado;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -3713,7 +3710,6 @@
 26/02/2021;24/02/1991;30;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 01/03/2021;19/07/1975;45;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 29/01/2021;14/01/1997;24;Feminino;Parda;Jequitaí;Residencia;Sim;Não;Sim;Ignorado;Ignorado;Um;Masculino;Ignorado;Ignorado
-04/03/2021;09/11/2007;13;Feminino;Preta;Pai Pedro;Residencia;Ignorado;Não;Sim;Sim;Não;Um;Masculino;Não se aplica;Não se aplica
 25/02/2021;13/01/2003;18;Feminino;Parda;Matias Cardoso;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 28/02/2021;22/03/2004;16;Feminino;Parda;Virgem da Lapa;Via pública;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
 14/02/2021;14/05/1979;41;Feminino;Preta;Mirabela;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
@@ -3833,7 +3829,6 @@
 13/03/2021;04/12/1960;60;Feminino;Parda;Três Pontas;Residencia;Ignorado;Ignorado;Sim;Sim;Não;Dois ou mais;Masculino;Não se aplica;Não se aplica
 13/03/2021;31/07/1980;40;Feminino;Branca;Três Pontas;Residencia;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Ignorado
 07/03/2021;26/08/1998;22;Feminino;Parda;Três Pontas;Via pública;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
-13/03/2021;23/03/2012;8;Feminino;Preta;Três Pontas;Residencia;Sim;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
 14/03/2021;25/06/1998;22;Feminino;Branca;Nepomuceno;Residencia;Sim;Sim;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
 14/03/2021;29/01/1959;62;Feminino;Parda;Nepomuceno;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Ignorado
 14/03/2021;10/01/1978;43;Feminino;Branca;Nepomuceno;Residencia;Não;Sim;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
@@ -3913,7 +3908,6 @@
 15/03/2021;23/02/2000;21;Feminino;Parda;Nova União;;;;;;;;;;
 03/03/2021;19/03/1969;51;Feminino;Parda;Belo Vale;Residencia;Sim;Não;Sim;Não;Não;Um;Ignorado;Heterossexual;Não se aplica
 31/01/2021;29/01/2021;0;Feminino;Parda;Confins;Residencia;Não;Ignorado;Sim;Sim;Não;Um;Masculino;Não se aplica;Não se aplica
-04/02/2021;11/01/1999;22;Feminino;Parda;Belo Horizonte;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 06/02/2021;07/02/2001;19;Feminino;Branca;Pedro Leopoldo;Residencia;Sim;Sim;Ignorado;Ignorado;Ignorado;Um;Feminino;Heterossexual;Transsexual Mulher
 04/02/2021;19/05/2001;19;Feminino;Ignorado;Nova Lima;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 30/01/2021;29/01/1984;37;Feminino;Branca;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
@@ -4687,7 +4681,6 @@
 28/03/2021;17/11/1999;21;Feminino;Branca;São Roque de Minas;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 21/03/2021;09/07/1967;53;Feminino;Branca;Piumhi;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Transsexual Mulher
 28/03/2021;14/02/1981;40;Feminino;Branca;Piumhi;Outro;Sim;Não;Sim;Sim;Não;Um;Feminino;Heterossexual;Não se aplica
-22/03/2021;10/06/2009;11;Feminino;Branca;Pimenta;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 02/04/2021;16/08/2005;15;Feminino;Branca;Pimenta;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 16/02/2021;11/02/2008;13;Feminino;Parda;Monte Santo de Minas;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 27/02/2021;15/09/2005;15;Feminino;Branca;Monte Santo de Minas;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
@@ -5084,7 +5077,6 @@
 11/04/2021;28/03/1989;32;Feminino;Parda;Porteirinha;Residencia;Não;Não;Sim;Sim;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 22/03/2021;11/01/2003;18;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 24/03/2021;14/11/1983;37;Feminino;Branca;Berizal;Residencia;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
-02/04/2021;11/05/1987;33;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Feminino;Heterossexual;Transsexual Mulher
 05/04/2021;18/10/1981;39;Feminino;Parda;Guaraciama;Residencia;Não;Não;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 05/04/2021;09/09/2005;15;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 05/04/2021;07/03/1994;27;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -5376,7 +5368,6 @@
 12/02/2021;10/08/1978;42;Feminino;Parda;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 02/03/2021;08/07/2005;15;Feminino;Branca;Belo Horizonte;Via pública;Sim;Não;Sim;Sim;Sim;Um;Masculino;Homossexual;Não se aplica
 22/03/2021;17/10/1983;37;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
-29/03/2021;10/12/1986;34;Feminino;Parda;Belo Horizonte;Residencia;Sim;Ignorado;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 11/02/2021;12/09/1990;30;Feminino;Preta;Belo Horizonte;Outro;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 15/02/2021;17/07/1984;36;Feminino;Parda;Belo Horizonte;Via pública;Ignorado;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
 14/02/2021;29/12/1994;26;Feminino;Parda;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
@@ -5654,10 +5645,10 @@
 19/04/2021;04/12/1999;21;Feminino;Branca;Santa Cruz de Salinas;Via pública;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Transsexual Mulher
 07/04/2021;31/05/1989;31;Feminino;Parda;Januária;Via pública;Não;Não;Sim;Sim;Sim;Um;Masculino;Heterossexual;Não se aplica
 19/04/2021;12/05/1938;82;Feminino;Parda;Guaraciama;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
-11/03/2021;05/05/1994;26;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 18/04/2021;16/05/1983;37;Feminino;Branca;Porteirinha;Bar ou similar;Não;Não;Sim;Não;Não;Dois ou mais;Ambos os sexos;Heterossexual;Ignorado
 18/04/2021;17/07/2006;14;Feminino;Branca;Claro dos Poções;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 30/03/2021;10/09/2002;18;Feminino;Parda;Francisco Sá;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+11/03/2021;05/05/1994;26;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 17/04/2021;16/04/1963;58;Feminino;Preta;Doresópolis;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 15/03/2021;13/09/1995;25;Feminino;Branca;Doresópolis;Via pública;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 16/04/2021;23/09/1967;53;Feminino;Preta;Ibiraci;;;;;;;;;;
@@ -6067,11 +6058,11 @@
 24/04/2021;29/09/1990;30;Feminino;Parda;Jaíba;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 09/04/2021;10/11/2008;12;Feminino;Ignorado;Salinas;Comercio/Serviços;Sim;Não;Sim;Sim;Sim;Um;Masculino;Não se aplica;Ignorado
 12/04/2021;13/06/1995;25;Feminino;Ignorado;Francisco Sá;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
-16/04/2021;22/07/1949;71;Feminino;Preta;Pai Pedro;Residencia;Não;Não;Sim;Não;Não;Um;Feminino;Não se aplica;Não se aplica
 31/03/2021;12/12/1997;23;Feminino;Parda;Rio Pardo de Minas;;;;;;;;;;
 22/03/2021;24/06/1997;23;Feminino;Parda;Rio Pardo de Minas;Residencia;Sim;Não;Não;Sim;Não;Um;Masculino;Heterossexual;Ignorado
 01/03/2021;30/09/2016;4;Feminino;Indígena;Rio Pardo de Minas;Residencia;Sim;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
 22/04/2021;08/02/1987;34;Feminino;Branca;Mirabela;;;;;;;;;;
+16/04/2021;22/07/1949;71;Feminino;Preta;Pai Pedro;Residencia;Não;Não;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 21/03/2021;06/09/1978;42;Feminino;Branca;Juiz de Fora;Residencia;Sim;Ignorado;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
 16/04/2021;26/10/1994;26;Feminino;Branca;Guarará;Residencia;Sim;;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 30/03/2021;11/12/2017;3;Feminino;Parda;Juiz de Fora;Residencia;Ignorado;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
@@ -7631,7 +7622,6 @@
 30/03/2021;18/08/1952;68;Feminino;Ignorado;Betim;Ignorado;Não;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 05/02/2021;01/06/1982;38;Feminino;Branca;Betim;Residencia;Sim;Sim;Não;Sim;Não;Um;Feminino;Heterossexual;Transsexual Homem
 11/02/2021;20/11/1989;31;Feminino;Ignorado;Contagem;Ignorado;Ignorado;Ignorado;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
-22/04/2021;03/10/1988;32;Feminino;Branca;Belo Horizonte;Residencia;Não;Sim;Sim;Sim;Não;Um;Feminino;Ignorado;Ignorado
 10/03/2021;15/05/1954;66;Feminino;Ignorado;Belo Horizonte;Residencia;Não;Sim;Sim;Ignorado;Ignorado;Um;Feminino;Ignorado;Ignorado
 02/05/2021;20/05/2007;13;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Ignorado;Ignorado;Ignorado;Sim;Um;Masculino;Heterossexual;Ignorado
 03/02/2021;01/12/1998;22;Feminino;Parda;Belo Horizonte;Ignorado;Ignorado;Ignorado;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
@@ -7741,7 +7731,6 @@
 29/01/2021;21/06/1966;54;Feminino;Parda;Januária;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 01/02/2021;22/04/2002;18;Feminino;Parda;Januária;Residencia;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 22/01/2021;07/05/1998;22;Feminino;Parda;Januária;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
-02/05/2021;10/06/2005;15;Feminino;Parda;Itamarati de Minas;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
 17/05/2021;15/08/2003;17;Feminino;Preta;Cataguases;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 26/04/2021;03/03/1990;31;Feminino;Branca;Leopoldina;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 26/05/2021;23/05/2013;7;Feminino;Ignorado;Santo Antônio do Aventureiro;Outro;Não;Não;Não;Sim;Sim;Um;Masculino;Não se aplica;Não se aplica
@@ -8106,7 +8095,6 @@
 03/05/2021;11/12/2000;20;Feminino;Parda;Ribeirão das Neves;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Ignorado;Não se aplica
 29/04/2021;26/07/1947;73;Feminino;Ignorado;Datas;Residencia;Ignorado;Ignorado;Sim;Não;Não;Dois ou mais;Feminino;Ignorado;Ignorado
 03/05/2021;06/06/2000;20;Feminino;Ignorado;Belo Horizonte;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
-08/05/2021;01/09/1992;28;Feminino;Parda;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 12/04/2021;02/08/1977;43;Feminino;Parda;Vespasiano;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 29/04/2021;09/05/1958;62;Feminino;Parda;Vespasiano;Residencia;Sim;Ignorado;Sim;Sim;Não;Um;Masculino;Ignorado;Ignorado
 27/04/2021;10/06/1991;29;Feminino;Parda;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
@@ -8143,7 +8131,6 @@
 27/04/2021;17/11/2016;4;Feminino;Ignorado;Contagem;Residencia;Não;Não;Sim;Ignorado;Sim;Um;Masculino;Não se aplica;Não se aplica
 16/04/2021;30/06/1973;47;Feminino;Ignorado;Contagem;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado;Sim;Um;Ignorado;Heterossexual;Ignorado
 05/05/2021;28/11/1999;21;Feminino;Parda;Belo Horizonte;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Masculino;Ignorado;Não se aplica
-21/05/2021;;15;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 04/05/2021;10/02/2013;8;Feminino;Preta;Belo Horizonte;Residencia;Sim;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
 19/05/2021;26/09/2009;11;Feminino;Branca;Belo Horizonte;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
 11/02/2021;03/04/1970;50;Feminino;Branca;Belo Horizonte;Ignorado;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
@@ -8238,7 +8225,6 @@
 24/05/2021;11/10/2000;20;Feminino;Branca;Astolfo Dutra;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 31/05/2021;28/03/2013;8;Feminino;Parda;Argirita;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Não se aplica;Não se aplica
 01/06/2021;01/10/1995;25;Feminino;Branca;Argirita;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
-23/05/2021;02/07/1965;55;Feminino;Branca;Itamarati de Minas;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 01/03/2021;03/05/2004;16;Feminino;Parda;Várzea da Palma;Via pública;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 01/03/2021;13/05/2004;16;Feminino;Parda;Várzea da Palma;Via pública;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 16/05/2021;24/05/2002;18;Feminino;Parda;Várzea da Palma;Bar ou similar;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -8255,7 +8241,7 @@
 29/05/2021;24/04/1988;33;Feminino;Indígena;São João da Lagoa;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Ignorado
 26/05/2021;17/03/1995;26;Feminino;Parda;Francisco Dumont;Ignorado;Ignorado;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 25/05/2021;18/03/1999;22;Feminino;Parda;Bocaiúva;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-24/05/2021;22/02/1998;23;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
+24/05/2021;22/02/1998;23;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 31/05/2021;22/08/1978;42;Feminino;Branca;Águas Vermelhas;Bar ou similar;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
 26/05/2021;11/06/1999;21;Feminino;Parda;Medina;Residencia;Sim;Ignorado;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 31/05/2021;12/08/1979;41;Feminino;Parda;Medina;Residencia;Sim;Não;Sim;Sim;Sim;Um;Masculino;Ignorado;Ignorado
@@ -8276,7 +8262,6 @@
 19/05/2021;19/01/1970;51;Feminino;Parda;Conselheiro Lafaiete;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
 21/05/2021;03/03/1987;34;Feminino;Preta;Conselheiro Lafaiete;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 12/04/2021;06/11/1962;58;Feminino;Branca;Conselheiro Lafaiete;Outro;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
-21/05/2021;01/07/1996;24;Feminino;Preta;Conselheiro Lafaiete;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 02/05/2021;19/11/1994;26;Feminino;Branca;Conselheiro Lafaiete;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
 12/05/2021;23/07/1987;33;Feminino;Branca;Conselheiro Lafaiete;Residencia;Não;Não;Sim;Não;Não;Um;Feminino;Heterossexual;Ignorado
 02/05/2021;27/10/2015;5;Feminino;Ignorado;Barbacena;Residencia;Sim;Ignorado;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
@@ -8938,7 +8923,6 @@
 18/05/2021;20/11/1974;46;Feminino;Parda;Belo Horizonte;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Ignorado;Ignorado
 19/05/2021;10/06/1927;93;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Não;Não;Não;Dois ou mais;Ambos os sexos;Heterossexual;Transsexual Mulher
 08/05/2021;25/02/1983;38;Feminino;Parda;Belo Horizonte;Residencia;Não;Não;Não;Não;Sim;Dois ou mais;Masculino;Heterossexual;Não se aplica
-15/05/2021;03/03/2002;19;Feminino;Parda;Belo Horizonte;Via pública;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
 28/04/2021;30/05/1989;31;Feminino;Ignorado;Betim;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
 20/05/2021;05/04/1998;23;Feminino;Ignorado;Betim;Via pública;Ignorado;Sim;Sim;Não;Não;Um;Feminino;Não se aplica;Não se aplica
 11/05/2021;11/12/2003;17;Feminino;Ignorado;Betim;Residencia;Não;Não;Sim;Sim;Sim;Um;Masculino;Heterossexual;Não se aplica
@@ -9487,7 +9471,6 @@
 05/05/2021;07/12/1998;22;Feminino;Parda;Januária;Via pública;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 09/05/2021;17/08/2000;20;Feminino;Branca;Januária;Escola;Sim;Não;Não;Sim;Não;Dois ou mais;Ambos os sexos;Heterossexual;Não se aplica
 10/05/2021;22/03/1989;32;Feminino;Parda;Januária;Via pública;Sim;Não;Sim;Não;Não;Ignorado;Ignorado;Heterossexual;Não se aplica
-12/06/2021;11/06/1984;37;Feminino;Parda;Pai Pedro;Ignorado;;Sim;Sim;Não;Não;Dois ou mais;Ignorado;Heterossexual;Ignorado
 10/06/2021;01/03/1975;46;Feminino;Parda;Teófilo Otoni;;;;;;;;;;
 10/06/2021;23/12/1984;36;Feminino;Parda;Teófilo Otoni;;;;;;;;;;
 10/06/2021;09/03/1982;39;Feminino;Parda;Teófilo Otoni;;;;;;;;;;
@@ -9769,7 +9752,6 @@
 11/02/2021;11/01/2002;19;Feminino;Ignorado;Betim;Residencia;Sim;Não;Não;Sim;Não;Um;Ignorado;Heterossexual;Ignorado
 01/06/2021;21/06/2004;16;Feminino;Ignorado;Betim;Ignorado;Ignorado;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 12/04/2021;28/06/2011;9;Feminino;Parda;Ouro Preto;Residencia;Sim;Não;Não;Sim;Sim;Um;Masculino;Não se aplica;Não se aplica
-07/06/2021;07/03/2021;0;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Não;Não;Não;Não;Dois ou mais;Ambos os sexos;Não se aplica;Não se aplica
 12/05/2021;;44;Feminino;Branca;Jaboticatubas;Outro;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 24/04/2021;03/09/2002;18;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 27/05/2021;02/01/1990;31;Feminino;Parda;Belo Horizonte;Residencia;Não;Não;Não;Sim;Sim;Um;Masculino;Ignorado;Ignorado
@@ -9828,7 +9810,6 @@
 22/03/2021;27/06/1986;34;Feminino;Branca;Machado;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 23/01/2021;03/05/1996;24;Feminino;Preta;Machado;Via pública;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 27/01/2021;08/10/1994;26;Feminino;Branca;Machado;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Transsexual Mulher
-20/01/2021;05/11/2003;17;Feminino;Branca;Carvalhópolis;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 01/02/2021;20/06/1964;56;Feminino;Branca;Machado;Residencia;Não;Não;Não;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 11/06/2021;09/04/1975;46;Feminino;Branca;Muzambinho;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 25/04/2021;27/07/1983;37;Feminino;Parda;Machado;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
@@ -11185,7 +11166,6 @@
 08/07/2021;;34;Feminino;Branca;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
 08/07/2021;30/11/2008;12;Feminino;Parda;Barbacena;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 06/07/2021;11/09/2006;14;Feminino;Parda;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
-25/06/2021;09/07/1992;28;Feminino;Preta;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
 25/06/2021;27/03/1968;53;Feminino;Parda;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
 10/07/2021;30/11/1992;28;Feminino;Parda;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
 12/07/2021;20/02/1981;40;Feminino;Parda;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
@@ -11814,7 +11794,6 @@
 19/07/2021;19/10/2001;19;Feminino;Branca;Lagoa Santa;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 16/06/2021;17/05/1950;71;Feminino;Ignorado;Betim;Ignorado;Ignorado;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
 08/06/2021;29/06/2006;14;Feminino;Parda;Belo Horizonte;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
-05/06/2021;10/06/1977;43;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 06/06/2021;09/01/1966;55;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 19/07/2021;18/10/1988;32;Feminino;Parda;Belo Horizonte;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Não se aplica
 20/07/2021;01/11/1944;76;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Não;Não;Não;Dois ou mais;Ambos os sexos;Ignorado;Ignorado
@@ -12146,7 +12125,6 @@
 29/07/2021;16/09/1956;64;Feminino;Parda;Indaiabira;Residencia;Não;Sim;Sim;Não;Não;Dois ou mais;Feminino;Ignorado;Ignorado
 20/07/2021;23/08/1967;53;Feminino;Parda;Indaiabira;Residencia;Sim;Não;Não;Sim;Não;Dois ou mais;Feminino;Não se aplica;Não se aplica
 19/07/2021;30/10/1955;65;Feminino;Parda;Indaiabira;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Ignorado;Ignorado
-29/07/2021;15/07/2021;0;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Não se aplica;Não se aplica
 27/07/2021;26/06/1985;36;Feminino;Parda;Santo Antônio do Jacinto;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Não se aplica;Transsexual Mulher
 26/07/2021;15/05/2021;0;Feminino;Amarela;Santo Antônio do Jacinto;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Não se aplica;Não se aplica
 30/07/2021;12/09/2001;19;Feminino;Preta;Águas Vermelhas;Residencia;Não;Não;Não;Sim;Não;Um;Masculino;Heterossexual;Ignorado
@@ -12370,7 +12348,6 @@
 15/07/2021;13/10/1987;33;Feminino;Ignorado;Contagem;Residencia;Ignorado;Ignorado;Sim;Ignorado;Ignorado;Um;Masculino;Ignorado;Ignorado
 21/05/2021;07/04/1970;51;Feminino;Ignorado;Contagem;Residencia;Ignorado;Ignorado;Sim;Ignorado;Ignorado;Um;Feminino;Ignorado;Ignorado
 25/07/2021;23/06/2015;6;Feminino;Ignorado;Contagem;Outro;Ignorado;Não;Ignorado;Ignorado;Sim;Um;Masculino;Não se aplica;Não se aplica
-17/05/2021;12/08/1968;52;Feminino;Branca;Belo Horizonte;Residencia;Ignorado;Sim;Sim;Ignorado;Ignorado;Um;Feminino;Ignorado;Ignorado
 13/07/2021;09/01/2011;10;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Não;Sim;Sim;Um;Masculino;Não se aplica;Não se aplica
 16/07/2021;25/11/1939;81;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Sim;Ignorado;Não;Um;Masculino;Heterossexual;Não se aplica
 26/06/2021;10/07/2008;12;Feminino;Ignorado;Belo Horizonte;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
@@ -13776,7 +13753,6 @@
 16/08/2021;16/03/1999;22;Feminino;Parda;Montes Claros;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 19/08/2021;25/09/2006;14;Feminino;Branca;Montes Claros;Residencia;Ignorado;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 16/08/2021;18/04/1951;70;Feminino;Ignorado;Montes Claros;Ignorado;Ignorado;Não;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
-22/08/2021;23/04/1990;31;Feminino;Preta;Pai Pedro;Residencia;Sim;Sim;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 24/07/2021;16/11/1989;31;Feminino;Ignorado;Montes Claros;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Ignorado;Não se aplica
 21/08/2021;04/02/1999;22;Feminino;Parda;Tupaciguara;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 14/08/2021;20/10/1949;71;Feminino;Branca;Viçosa;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Não se aplica;Não se aplica
@@ -14135,7 +14111,6 @@
 23/06/2021;22/09/1955;65;Feminino;Ignorado;Betim;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 15/08/2021;10/10/1986;34;Feminino;Parda;Itabirito;Via pública;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 12/05/2021;23/09/2005;15;Feminino;Ignorado;Ribeirão das Neves;Residencia;Ignorado;Não;Sim;Não;Não;Um;Feminino;Heterossexual;Ignorado
-30/06/2021;10/03/1994;27;Feminino;Parda;Belo Horizonte;Ignorado;Ignorado;Não;Sim;Não;Não;Um;Masculino;Ignorado;Não se aplica
 22/08/2021;30/05/1977;44;Feminino;Preta;Esmeraldas;Residencia;;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Ignorado
 06/08/2021;11/09/2015;5;Feminino;Parda;Santa Luzia;;;;;;;;;;
 06/07/2021;24/04/1958;63;Feminino;Branca;Ribeirão das Neves;Residencia;Não;Não;Sim;Não;Não;Um;Ignorado;Heterossexual;Ignorado
@@ -15308,7 +15283,6 @@
 28/07/2021;15/05/2017;4;Feminino;Branca;Divinópolis;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
 22/08/2021;13/09/1980;40;Feminino;Parda;Pará de Minas;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 27/08/2021;12/11/1995;25;Feminino;Parda;Pará de Minas;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-29/08/2021;13/03/1987;34;Feminino;Parda;Belo Horizonte;Outro;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 11/08/2021;14/03/1973;48;Feminino;Parda;Pará de Minas;Residencia;Não;Sim;Não;Sim;Não;Um;Feminino;Heterossexual;Não se aplica
 22/08/2021;18/03/1962;59;Feminino;Branca;Pará de Minas;Residencia;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 23/08/2021;09/02/1965;56;Feminino;Branca;Pará de Minas;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -16707,7 +16681,6 @@
 19/09/2021;29/11/1979;41;Feminino;Parda;Porteirinha;Via pública;Não;Não;Sim;Não;Não;Dois ou mais;Ignorado;Não se aplica;Não se aplica
 19/09/2021;05/12/1975;45;Feminino;Branca;Porteirinha;Via pública;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Não se aplica;Não se aplica
 23/09/2021;19/02/2010;11;Feminino;Parda;Taiobeiras;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado;Ignorado
-19/09/2021;24/05/1995;26;Feminino;Branca;Pai Pedro;Residencia;Ignorado;Sim;Sim;Sim;Não;Um;Masculino;Ignorado;Ignorado
 22/08/2021;16/02/2021;0;Feminino;Parda;Matias Cardoso;Residencia;Sim;Ignorado;Sim;Não;Não;Dois ou mais;Masculino;Não se aplica;Não se aplica
 24/09/2021;18/07/1985;36;Feminino;Parda;Belo Horizonte;Ignorado;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 21/09/2021;25/09/1998;22;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -17146,7 +17119,6 @@
 08/05/2021;17/01/2007;14;Feminino;Parda;Ibirité;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
 13/09/2021;28/09/1976;44;Feminino;Parda;Igarapé;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Ignorado;Ignorado
 06/09/2021;06/04/1982;39;Feminino;Preta;Belo Horizonte;;;;;;;;;;
-22/09/2021;04/10/1993;27;Feminino;Parda;Belo Horizonte;;;;;;;;;;
 10/09/2021;21/04/2020;1;Feminino;Parda;Belo Horizonte;Residencia;Sim;Sim;Sim;Não;Não;Dois ou mais;Ignorado;Não se aplica;Não se aplica
 02/09/2021;11/06/1987;34;Feminino;Parda;Belo Horizonte;;;;;;;;;;
 17/09/2021;20/11/1962;58;Feminino;Ignorado;Betim;Residencia;Ignorado;Sim;Sim;Sim;Não;Um;Feminino;Ignorado;Ignorado
@@ -18538,7 +18510,6 @@
 21/09/2021;23/10/2003;17;Feminino;Parda;Padre Carvalho;Bar ou similar;Não;Não;Sim;Sim;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 24/09/2021;14/06/2008;13;Feminino;Ignorado;Bocaiúva;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Bissexual;Não se aplica
 14/10/2021;13/12/1979;41;Feminino;Parda;Coração de Jesus;Outro;Sim;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
-17/10/2021;22/06/1990;31;Feminino;Parda;Pai Pedro;Bar ou similar;Sim;Sim;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 15/10/2021;30/01/2018;3;Feminino;Parda;Ubaí;Residencia;Ignorado;Não;Não;Sim;Sim;Um;Masculino;Não se aplica;Não se aplica
 05/09/2021;02/08/1980;41;Feminino;Parda;Botumirim;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 19/07/2021;18/05/1988;33;Feminino;Parda;Botumirim;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
@@ -19000,7 +18971,6 @@
 13/08/2021;04/07/1991;30;Feminino;Parda;Belo Horizonte;;;;;;;;;;
 08/09/2021;14/10/1986;34;Feminino;Preta;Belo Horizonte;Via pública;Não;Não;Não;Sim;Sim;Um;Masculino;Heterossexual;Não se aplica
 29/04/2021;01/12/2019;1;Feminino;Preta;Belo Horizonte;Residencia;Sim;Não;Não;Não;Não;Dois ou mais;Masculino;Não se aplica;Não se aplica
-14/09/2021;01/01/1957;64;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Sim;Não;Não;Não;Um;Ignorado;Ignorado;Ignorado
 13/09/2021;23/07/1973;48;Feminino;Parda;Brumadinho;Residencia;Sim;Não;Sim;Sim;Ignorado;Dois ou mais;Masculino;Heterossexual;Ignorado
 08/10/2021;13/01/1976;45;Feminino;Parda;Belo Horizonte;Ignorado;Sim;Sim;Não;Não;Não;Um;Ignorado;Ignorado;Ignorado
 19/09/2021;09/08/1998;23;Feminino;Parda;Lagoa Santa;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
@@ -20260,7 +20230,6 @@
 18/10/2021;18/10/2006;14;Feminino;Branca;Passos;Residencia;Ignorado;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 18/10/2021;03/08/2004;17;Feminino;Parda;Passos;Ignorado;Ignorado;Não;Sim;Não;Não;Um;Ignorado;Ignorado;Ignorado
 25/10/2021;27/11/1993;27;Feminino;Parda;São José do Jacuri;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-02/11/2021;09/07/1993;28;Feminino;Parda;Pai Pedro;Residencia;Não;;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Ignorado
 09/10/2021;08/03/1977;44;Feminino;Parda;Janaúba;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 12/08/2021;09/11/2010;10;Feminino;Preta;Francisco Dumont;Escola;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Não se aplica;Não se aplica
 22/05/2021;21/01/1998;23;Feminino;Parda;Francisco Dumont;Escola;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
@@ -21159,7 +21128,6 @@
 17/11/2021;08/01/2002;19;Feminino;Branca;Santana de Cataguases;Via pública;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 04/11/2021;06/08/1987;34;Feminino;Parda;Cataguases;Residencia;;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 05/11/2021;22/12/1983;37;Feminino;Preta;Cataguases;Residencia;;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
-12/11/2021;15/04/1993;28;Feminino;Preta;Itamarati de Minas;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 09/11/2021;16/10/1987;34;Feminino;Preta;Cataguases;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 07/11/2021;14/03/2002;19;Feminino;Parda;Cataguases;Residencia;;Sim;Não;Não;Não;Um;Feminino;Não se aplica;Não se aplica
 08/11/2021;03/10/1978;43;Feminino;Preta;Cataguases;Via pública;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
@@ -21857,7 +21825,6 @@
 16/10/2021;28/03/1998;23;Feminino;Preta;Januária;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 15/11/2021;09/07/2010;11;Feminino;Branca;Montes Claros;Residencia;Sim;Não;Sim;Sim;Sim;Um;Masculino;Não se aplica;Não se aplica
 05/10/2021;12/11/2009;11;Feminino;Ignorado;Matias Cardoso;Outro;Ignorado;Não;Não;Não;Sim;Dois ou mais;Masculino;Não se aplica;Não se aplica
-15/11/2021;11/12/1987;33;Feminino;Preta;Pai Pedro;Via pública;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 20/05/2021;30/09/2004;16;Feminino;Parda;Capitão Enéas;Via pública;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Não se aplica;Não se aplica
 10/10/2021;25/07/1997;24;Feminino;Preta;Capitão Enéas;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
 01/10/2021;19/02/1969;52;Feminino;Parda;Capitão Enéas;Outro;Não;Não;Sim;Sim;Não;Um;Feminino;Heterossexual;Não se aplica
@@ -21867,7 +21834,6 @@
 21/11/2021;22/12/2004;16;Feminino;Parda;Porteirinha;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
 09/11/2021;24/08/2002;19;Feminino;Parda;Porteirinha;Via pública;Não;Não;Sim;Sim;Sim;Um;Masculino;Heterossexual;Não se aplica
 21/11/2021;04/02/1978;43;Feminino;Parda;Porteirinha;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
-12/11/2021;02/08/1990;31;Feminino;Parda;Pai Pedro;Residencia;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Não se aplica;Não se aplica
 17/10/2021;16/06/1996;25;Feminino;Parda;Botumirim;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 23/10/2021;25/11/2003;17;Feminino;Parda;Botumirim;Residencia;Não;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 26/09/2021;05/05/2001;20;Feminino;Preta;Capitão Enéas;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
@@ -21876,6 +21842,7 @@
 25/10/2021;25/05/2005;16;Feminino;Parda;Bocaiúva;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 04/11/2021;15/11/1991;29;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 03/11/2021;30/07/1988;33;Feminino;Parda;Bocaiúva;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+12/11/2021;02/08/1990;31;Feminino;Parda;Pai Pedro;Residencia;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 14/11/2021;05/01/1971;50;Feminino;Parda;Bocaiúva;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 16/11/2021;09/12/1975;45;Feminino;Parda;Montes Claros;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 18/11/2021;26/06/2007;14;Feminino;Parda;Montes Claros;Residencia;Sim;Sim;Sim;Não;Não;;Feminino;Não se aplica;Não se aplica
@@ -22357,7 +22324,6 @@
 29/11/2021;01/02/1996;25;Feminino;Branca;Lima Duarte;Residencia;Não;Não;Sim;Não;Não;Um;Ignorado;Ignorado;Ignorado
 19/11/2021;01/09/1978;43;Feminino;Preta;Estrela Dalva;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 18/11/2021;01/10/1995;26;Feminino;Preta;Leopoldina;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-29/11/2021;21/05/1992;29;Feminino;Branca;Itamarati de Minas;Bar ou similar;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 27/11/2021;25/07/1992;29;Feminino;Preta;Cataguases;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 22/11/2021;30/06/2003;18;Feminino;Parda;Cataguases;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Não se aplica;Não se aplica
 11/11/2021;06/04/1972;49;Feminino;Branca;Cataguases;Residencia;;Sim;Não;Não;Não;Um;Feminino;Não se aplica;Não se aplica
@@ -22920,7 +22886,6 @@
 01/12/2021;31/07/1961;60;Feminino;Parda;Cataguases;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 30/11/2021;14/10/1997;24;Feminino;Branca;Leopoldina;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Ignorado
 30/11/2021;17/01/2008;13;Feminino;Preta;Cataguases;Via pública;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-03/12/2021;15/04/1993;28;Feminino;Preta;Itamarati de Minas;;;;;;;;;;
 06/12/2021;28/09/1973;48;Feminino;Preta;Itamarati de Minas;Bar ou similar;Não;Não;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 02/12/2021;19/10/2007;14;Feminino;Branca;Santana de Cataguases;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 20/11/2021;22/02/2010;11;Feminino;Parda;Uberlândia;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
@@ -23617,7 +23582,6 @@
 08/11/2021;12/03/1993;28;Feminino;Parda;Cataguases;Residencia;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 14/11/2021;22/02/2000;21;Feminino;Preta;Estrela Dalva;Via pública;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 03/12/2021;10/11/1988;33;Feminino;Parda;Recreio;Residencia;Sim;Sim;Não;Sim;Não;Um;Feminino;Heterossexual;Ignorado
-14/12/2021;15/01/1999;22;Feminino;Preta;Itamarati de Minas;;;;;;;;;;
 03/11/2021;13/08/1988;33;Feminino;Parda;Cataguases;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 12/12/2021;30/03/1981;40;Feminino;Parda;Cataguases;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 22/11/2021;06/06/1966;55;Feminino;Preta;Cataguases;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -26848,7 +26812,6 @@
 20/11/2021;24/03/1991;30;Feminino;Parda;Ribeirão das Neves;Ignorado;Sim;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
 21/11/2021;03/05/2005;16;Feminino;Preta;Ribeirão das Neves;Via pública;Ignorado;Ignorado;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
 20/10/2021;29/08/2005;16;Feminino;Branca;Machado;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-01/12/2021;03/10/2002;19;Feminino;Parda;Poço Fundo;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 16/12/2021;31/05/2007;14;Feminino;Branca;Machado;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 07/02/2021;21/05/1995;25;Feminino;Preta;Além Paraíba;Outro;Não;Não;Sim;Sim;Sim;Um;Masculino;Heterossexual;Não se aplica
 10/05/2021;13/12/1999;21;Feminino;Preta;Além Paraíba;Residencia;Não;Não;Sim;Sim;Não;Dois ou mais;Masculino;Ignorado;Ignorado
@@ -28454,24 +28417,18 @@
 20/11/2021;22/08/1982;39;Feminino;Parda;Santana do Manhuaçu;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 07/10/2021;18/05/1992;29;Feminino;Parda;Santana do Manhuaçu;;;;;;;;;;
 03/04/2021;11/09/1979;41;Feminino;Branca;Pimenta;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-22/03/2021;16/03/2009;12;Feminino;Branca;Pimenta;Residencia;Ignorado;Ignorado;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 15/03/2021;30/05/1999;21;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Sim;Sim;Não;Um;Feminino;Não se aplica;Não se aplica
 10/04/2021;30/04/1986;34;Feminino;Branca;Pimenta;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 20/04/2021;29/07/2004;16;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Sim;Sim;Não;Um;Feminino;Heterossexual;Não se aplica
-14/09/2021;15/11/1995;25;Feminino;Preta;Pains;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Transsexual Homem
 25/09/2021;23/08/2002;19;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Homossexual;Ignorado
 18/11/2021;03/12/1934;86;Feminino;Branca;Itamogi;Residencia;Não;Não;Não;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 08/11/2021;18/08/1967;54;Feminino;Branca;Itamogi;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 29/10/2021;17/12/1983;37;Feminino;Parda;Pimenta;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Não se aplica
 16/10/2021;01/10/1986;35;Feminino;Branca;Pimenta;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Ignorado
-22/09/2021;28/03/1978;43;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
 02/08/2021;26/02/1930;91;Feminino;Branca;Itamogi;Residencia;Sim;Não;Não;Não;Não;Um;Masculino;Heterossexual;Não se aplica
-04/08/2021;11/12/2004;16;Feminino;Branca;Pimenta;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 29/07/2021;29/07/1949;71;Feminino;Branca;Itamogi;Residencia;Não;Não;Não;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 10/02/2021;04/01/1986;35;Feminino;Branca;Itamogi;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 08/04/2021;15/06/2004;16;Feminino;Branca;Pimenta;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Não se aplica;Não se aplica
-18/01/2021;20/02/1997;23;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-11/12/2021;17/09/1994;27;Feminino;Preta;Pimenta;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Ignorado
 02/05/2021;24/04/1999;22;Feminino;Preta;Mamonas;Residencia;Sim;Sim;Sim;Sim;Não;Um;Feminino;Ignorado;Ignorado
 22/06/2021;15/03/2014;7;Feminino;Parda;Fronteira;Residencia;Ignorado;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
 16/05/2021;13/08/1973;47;Feminino;Parda;Fronteira;Escola;Sim;Não;Sim;Não;Não;Um;Masculino;Ignorado;Ignorado
@@ -28654,7 +28611,6 @@
 27/12/2021;11/06/1996;25;Feminino;Parda;Santana do Paraíso;Via pública;Sim;Não;Sim;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
 24/06/2021;08/11/1976;44;Feminino;Parda;Várzea da Palma;Bar ou similar;Não;Não;Sim;Sim;Não;Um;Feminino;Heterossexual;Não se aplica
 11/08/2021;16/01/1995;26;Feminino;Parda;Várzea da Palma;Residencia;Sim;Sim;Sim;Sim;Não;Um;Feminino;Heterossexual;Não se aplica
-28/08/2021;11/06/1982;39;Feminino;Preta;Várzea da Palma;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 23/07/2021;26/08/1991;29;Feminino;Parda;Várzea da Palma;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
 06/09/2021;22/08/1985;36;Feminino;Parda;Várzea da Palma;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 05/08/2021;06/11/2002;18;Feminino;Parda;Várzea da Palma;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
@@ -28867,14 +28823,12 @@
 13/12/2021;20/10/1994;27;Feminino;Parda;Porteirinha;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 09/12/2021;18/04/1952;69;Feminino;Parda;Porteirinha;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Ignorado
 24/01/2021;20/10/1999;21;Feminino;Branca;Porteirinha;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
-28/08/2021;11/04/1974;47;Feminino;Parda;Pai Pedro;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
-25/12/2021;08/10/1998;23;Feminino;Preta;Pai Pedro;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+28/08/2021;11/04/1974;47;Feminino;Parda;Pai Pedro;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 04/09/2021;08/07/1956;65;Feminino;Ignorado;Betim;Ignorado;Sim;Sim;Sim;Não;Não;Ignorado;Feminino;Ignorado;Ignorado
 10/08/2021;31/12/1953;67;Feminino;Parda;Betim;Residencia;Não;Não;Sim;Sim;Ignorado;Um;Feminino;Ignorado;Ignorado
 16/02/2021;07/06/1978;42;Feminino;Branca;Iturama;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 04/10/2021;19/03/1991;30;Feminino;Branca;Itajubá;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
 18/03/2021;13/03/1999;22;Feminino;Preta;Conselheiro Lafaiete;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Não se aplica
-17/09/2021;28/05/2006;15;Feminino;Branca;Conselheiro Lafaiete;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Ignorado
 10/07/2021;22/07/1992;28;Feminino;Parda;Ubaporanga;Residencia;Ignorado;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
 19/02/2021;25/07/1989;31;Feminino;Parda;Itajubá;Residencia;Ignorado;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 14/02/2021;11/05/2000;20;Feminino;Parda;Pirajuba;Ignorado;Ignorado;Não;Não;Não;Não;Ignorado;Feminino;Ignorado;Ignorado
@@ -28958,7 +28912,6 @@
 07/06/2021;10/10/1988;32;Feminino;Parda;Patos de Minas;;;;;;;;;;
 14/07/2021;16/12/1990;30;Feminino;Parda;Belo Horizonte;Outro;Ignorado;Ignorado;Não;Não;Não;Um;Masculino;Não se aplica;Não se aplica
 28/12/2021;30/01/1993;28;Feminino;Preta;Belo Horizonte;Residencia;Ignorado;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
-20/11/2021;03/08/1998;23;Feminino;Branca;Belo Horizonte;Ignorado;Ignorado;Ignorado;Sim;Sim;Ignorado;Dois ou mais;Masculino;Heterossexual;Ignorado
 08/09/2021;14/12/1993;27;Feminino;Parda;Belo Horizonte;Residencia;Não;Não;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 05/05/2021;28/05/2002;18;Feminino;Parda;Belo Horizonte;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Não se aplica
 07/01/2021;28/06/1984;36;Feminino;Parda;Itajubá;Residencia;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
@@ -29001,3 +28954,60 @@
 26/01/2021;26/02/2008;12;Feminino;Preta;Belo Horizonte;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
 02/01/2021;27/02/1981;39;Feminino;Branca;Manhuaçu;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
 21/06/2021;27/02/1981;40;Feminino;Branca;Manhuaçu;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+03/05/2021;13/01/1976;45;Feminino;Branca;Mar de Espanha;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
+13/03/2021;23/03/2012;8;Feminino;Preta;Três Pontas;Residencia;Sim;Não;Não;Não;Sim;Um;Masculino;Não se aplica;Não se aplica
+21/05/2021;01/07/1996;24;Feminino;Preta;Conselheiro Lafaiete;Residencia;Não;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+25/06/2021;09/07/1992;28;Feminino;Preta;Barbacena;Ignorado;Ignorado;Não;Sim;Não;Não;Ignorado;Ignorado;Ignorado;Ignorado
+17/09/2021;28/05/2006;15;Feminino;Branca;Conselheiro Lafaiete;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Ignorado
+20/11/2021;14/03/2002;19;Feminino;Branca;Piranga;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Não se aplica;Não se aplica
+18/01/2021;20/02/1997;23;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+04/08/2021;11/12/2004;16;Feminino;Branca;Pimenta;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+22/09/2021;28/03/1978;43;Feminino;Branca;Pimenta;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
+11/12/2021;17/09/1994;27;Feminino;Preta;Pimenta;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Ignorado
+22/03/2021;16/03/2009;12;Feminino;Branca;Pimenta;Residencia;Ignorado;Ignorado;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
+14/09/2021;15/11/1995;25;Feminino;Preta;Pains;Residencia;Sim;Não;Sim;Não;Não;Dois ou mais;Masculino;Heterossexual;Transsexual Homem
+22/03/2021;10/06/2009;11;Feminino;Branca;Pimenta;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+15/11/2021;11/12/1987;33;Feminino;Preta;Pai Pedro;Via pública;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+25/12/2021;08/10/1998;23;Feminino;Preta;Pai Pedro;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+04/03/2021;09/11/2007;13;Feminino;Preta;Pai Pedro;Residencia;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+22/08/2021;23/04/1990;31;Feminino;Preta;Pai Pedro;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+29/07/2021;15/07/1987;34;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+17/10/2021;22/06/1990;31;Feminino;Parda;Pai Pedro;Bar ou similar;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+19/09/2021;24/05/1995;26;Feminino;Branca;Pai Pedro;Residencia;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+06/02/2021;15/07/1987;33;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+12/06/2021;11/06/1984;37;Feminino;Parda;Pai Pedro;Via pública;Não;Sim;Sim;Não;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
+02/11/2021;09/07/1993;28;Feminino;Parda;Pai Pedro;Residencia;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+22/01/2021;05/05/1999;21;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+02/04/2021;11/05/1987;33;Feminino;Parda;Pai Pedro;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Feminino;Heterossexual;Não se aplica
+02/05/2021;10/06/2005;15;Feminino;Parda;Itamarati de Minas;Residencia;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
+12/11/2021;15/04/1993;28;Feminino;Preta;Itamarati de Minas;Residencia;Sim;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+03/12/2021;15/04/1993;28;Feminino;Preta;Itamarati de Minas;;;;;;;;;;
+14/12/2021;15/01/1999;22;Feminino;Preta;Itamarati de Minas;;;;;;;;;;
+23/05/2021;02/07/1965;55;Feminino;Branca;Itamarati de Minas;Residencia;Sim;Sim;Sim;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+29/11/2021;21/05/1992;29;Feminino;Branca;Itamarati de Minas;Bar ou similar;Não;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+28/08/2021;11/06/1982;39;Feminino;Preta;Várzea da Palma;Residencia;Sim;Não;Sim;Sim;Não;Dois ou mais;Masculino;Heterossexual;Não se aplica
+30/06/2021;10/03/1994;27;Feminino;Parda;Belo Horizonte;Ignorado;Ignorado;Não;Sim;Não;Não;Um;Masculino;Ignorado;Não se aplica
+17/05/2021;12/08/1968;52;Feminino;Branca;Belo Horizonte;Residencia;Ignorado;Sim;Sim;Ignorado;Ignorado;Um;Feminino;Ignorado;Ignorado
+20/11/2021;03/08/1998;23;Feminino;Branca;Belo Horizonte;Ignorado;Ignorado;Ignorado;Sim;Sim;Ignorado;Dois ou mais;Masculino;Heterossexual;Ignorado
+07/06/2021;07/03/2021;0;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Não;Não;Não;Não;Dois ou mais;Ambos os sexos;Não se aplica;Não se aplica
+08/05/2021;01/09/1992;28;Feminino;Parda;Belo Horizonte;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
+04/01/2021;23/01/1992;28;Feminino;Parda;Contagem;Residencia;Sim;Não;Sim;Ignorado;Sim;Um;Masculino;Heterossexual;Ignorado
+29/03/2021;10/12/1986;34;Feminino;Parda;Belo Horizonte;Residencia;Sim;Ignorado;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+05/06/2021;10/06/1977;43;Feminino;Parda;Belo Horizonte;Residencia;Sim;Não;Sim;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+15/05/2021;03/03/2002;19;Feminino;Parda;Belo Horizonte;Via pública;Não;Não;Não;Não;Sim;Um;Masculino;Heterossexual;Não se aplica
+21/05/2021;;15;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
+15/09/2021;22/09/2000;20;Feminino;Parda;Betim;Residencia;Ignorado;Sim;Sim;Sim;Ignorado;Ignorado;Feminino;Ignorado;Ignorado
+18/12/2021;22/11/2004;17;Feminino;Branca;Itapagipe;Residencia;Sim;Sim;Não;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+01/05/2021;26/11/1979;41;Feminino;Branca;Itapagipe;Residencia;Não;Sim;Não;Não;Não;Um;Masculino;Heterossexual;Não se aplica
+20/01/2021;05/11/2003;17;Feminino;Branca;Carvalhópolis;Residencia;Sim;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+01/12/2021;03/10/2002;19;Feminino;Parda;Poço Fundo;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+17/12/2021;25/09/2008;12;Feminino;Branca;Leopoldina;Residencia;Ignorado;Sim;Sim;Não;Não;Um;Feminino;Ignorado;Ignorado
+07/11/2021;10/11/1993;27;Feminino;Branca;Sacramento;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+14/12/2021;28/04/1977;44;Feminino;Branca;Sacramento;Residencia;Ignorado;Sim;Não;Não;Não;Um;Feminino;Heterossexual;Não se aplica
+14/09/2021;01/01/1957;64;Feminino;Parda;Belo Horizonte;Residencia;Ignorado;Sim;Não;Não;Não;Um;Ignorado;Ignorado;Ignorado
+04/02/2021;11/01/1999;22;Feminino;Parda;Belo Horizonte;Residencia;Não;Sim;Não;Não;Não;Um;Feminino;Ignorado;Ignorado
+22/04/2021;03/10/1988;32;Feminino;Branca;Belo Horizonte;Residencia;Não;Sim;Sim;Sim;Não;Um;Feminino;Ignorado;Ignorado
+29/08/2021;13/03/1987;34;Feminino;Parda;Belo Horizonte;Outro;Não;Não;Sim;Sim;Não;Um;Masculino;Heterossexual;Não se aplica
+22/09/2021;04/10/1993;27;Feminino;Parda;Belo Horizonte;;;;;;;;;;
+08/02/2021;17/09/1983;36;Feminino;Parda;Belo Horizonte;Ignorado;Não;Não;Sim;Não;Não;Um;Ignorado;Ignorado;Ignorado
+01/07/2021;31/10/1987;33;Feminino;Branca;Belo Horizonte;;;;;;;;;;
