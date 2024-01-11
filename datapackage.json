@@ -226,6 +226,20 @@
       "dialect": {
         "delimiter": ";"
       }
+    },
+    {
+      "path": "data/dados_violencia_mulheres_ses_2024.csv",
+      "name": "dados_violencia_mulheres_ses_2024",
+      "title": "Violência contra Mulheres SES 2024",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": "schemas/schema_v1.json",
+      "dialect": {
+        "delimiter": ";"
+      }
     }
   ],
   "profile": "data-package"
